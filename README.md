@@ -22,7 +22,7 @@ Key features:
 - Delivery to Slack, Teams, email, or in-chat
 - Designed to run as a Claude scheduled task (weekdays at 8am) or on demand
 
-How to use:
+ ★ ★ ★ HOW TO USE ★ ★ ★
 - Download skill
 - Upload into a Claude chat
 - Ask to use and save skill
