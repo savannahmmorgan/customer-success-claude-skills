@@ -8,9 +8,9 @@ What it does:
 
 
 Works across tool stacks:
-- CRM: HubSpot, Salesforce, Attio
+- CRM: HubSpot, Salesforce, Attio, etc.
 - Email: Gmail, Outlook (via Superhuman), or CRM email logging as a fallback
-- Call recordings: Fathom, Gong, Chorus, Fireflies — or wherever you keep call notes (Google Docs, Notion, Coda, Confluence, Slack)
+- Call recordings: Call recorders with connectors or wherever you keep call notes (Google Docs, Notion, Coda, Confluence, Slack)
 - Chat: Slack, Microsoft Teams, Google Chat
 
 
