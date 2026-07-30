@@ -25,7 +25,8 @@ Key features:
  ★ ★ ★ HOW TO USE ★ ★ ★
 - Download skill
 - Upload into a Claude chat
-- Ask to use and save skill
+- Ask Claude to save this as a Skill
+- Run the Skill
 - Go through setup
 
 Built by Savannah Morgan @ Turnstile.ai
