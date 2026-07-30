@@ -1,3 +1,10 @@
+ ★ ★ ★ HOW TO USE ★ ★ ★
+- Download skill
+- Upload into a Claude chat
+- Ask Claude to save this as a Skill
+- Run the Skill
+- Go through setup
+
 # CSM Feedback Feed
 
 A Claude skill that gives Customer Success Managers a daily product feedback feed — bugs, feature requests, and (optionally) customer sentiment — pulled from their actual tools and scoped to their accounts.
