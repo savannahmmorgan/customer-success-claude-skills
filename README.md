@@ -28,4 +28,4 @@ Key features:
 - Ask to use and save skill
 - Go through setup
 
-Built by Savannah Morgan @ Turnstile
+Built by Savannah Morgan @ Turnstile.ai
